@@ -1,0 +1,10 @@
+{
+  "name": "iframe-metadata-renderer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sweets Sweetman <sweetmantech@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "thirdweb": "^0.12.5"
+  }
+}
